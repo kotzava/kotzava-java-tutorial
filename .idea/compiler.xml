@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="DataType" />
         <module name="Operators" />
+        <module name="IfElse" />
         <module name="HelloWorld" />
         <module name="Example" />
         <module name="CacLoaiBien" />
